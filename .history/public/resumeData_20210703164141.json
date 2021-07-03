@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "UMA SHANKAR V",
+    "occupation": "Software Engineer",
+    "description": "Coding Lover",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Shankar! I've been coding for over 1.5 years now. As a Full Stack developer I've worked both with startups and Mid-level corporations to help build & scale their companies.I have ablitiy to develop both MOBILE(including IOS) and WEB Applications.. ",
+    "contactmessage": "Get in touch with me!!!",
+    "email": "umashankardot@gmail.com",
+    "phone": "7358881597",
+    "address": {
+      "street": "68/15 Doddaiyah layout",
+      "city": "Bangalore",
+      "state": "Halsur",
+      "zip": "Karnataka"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/drive/u/0/my-drive",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100007678231964",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/uma-shankar-v/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/umashankardot/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/umashankar-tech",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bharathidasan - Tamil Nadu, India",
+        "degree": "Master of Computer Application , Computer Science",
+        "graduated": "April 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Vustech",
+        "description": "Building all the apps possible. On the way to reach the peak!."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "0%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
